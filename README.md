@@ -3,7 +3,7 @@
 ![friends-gathering](images/friends-gathering.png)
 
 - The name of my room since I don't live in that room anymore
-    - The room had been listed on Airbnb as "**Music Lovers enjoy this Small Haven**" ([Daisuke's Profile](https://www.airbnb.com/users/show/17763999))
+    - The room had been listed on Airbnb as "**Music Lovers enjoy this Small Haven**" Hosted by me (Daisuke).
 - SSID of a Wi-Fi Router in that room
 
 ![mInItechroom_406](images/mInItechroom_406.png)
