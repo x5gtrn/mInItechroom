@@ -68,9 +68,9 @@ Only Owner (Me, Daisuke) can create new Public Channel. Ask me freely to create 
 
 #### Room Channels
 
-- #room_apple-user
 - #room_android-user
-- #room-develop-wiki
+- #room_apple-user
+- #room-developer
 - #room_dj-musician
 - #room_lang-exchange
 
