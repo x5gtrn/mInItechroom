@@ -73,6 +73,8 @@ Only Owner (Me, Daisuke) can create new Public Channel. Ask me freely to create 
 - #room-developer
 - #room_dj-musician
 - #room_lang-exchange
+- #room_linux-user
+- #room_microsoft-user
 
 ![mInItechroom_slack](images/mInItechroom_slack.jpg)
 
