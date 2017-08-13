@@ -52,29 +52,29 @@ Only Owner (Me, Daisuke) can create new Public Channel. Ask me freely to create 
 
 #### Meta Channels
 
-- #_app-sandbox
-- #_general-announcement
-- #_random-talk
+- #_app_sandbox
+- #_general_announcement
+- #_random_talk
 
 #### Lounge Channels
 
-- #lounge_anime
-- #lounge_game
-- #lounge_movie
-- #lounge_music
-- #lounge_photo
-- #lounge_tech
-- #lounge_tv-drama
+- #lounge-anime
+- #lounge-game
+- #lounge-lang_exchange
+- #lounge-movie
+- #lounge-music
+- #lounge-photo
+- #lounge-tech
+- #lounge-tv_drama
 
 #### Room Channels
 
-- #room_android-user
-- #room_apple-user
+- #room-android_user
+- #room-apple_user
 - #room-developer
-- #room_dj-musician
-- #room_lang-exchange
-- #room_linux-user
-- #room_microsoft-user
+- #room-dj_musician
+- #room-linux_user
+- #room-microsoft_user
 
 ![mInItechroom_slack](images/mInItechroom_slack.jpg)
 
